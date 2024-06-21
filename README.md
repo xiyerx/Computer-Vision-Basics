@@ -1,4 +1,4 @@
-# Computer Vision Basics
+# Basic Projects in Computer Vision
 
 This repository contains fundamental computer vision techniques implemented in Python. It is intended to serve as a guide for students and enthusiasts who are interested in learning and applying computer vision and image processing methods.
 
