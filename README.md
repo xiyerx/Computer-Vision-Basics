@@ -1,7 +1,8 @@
 # Computer Vision Basics
 
 This repository contains fundamental computer vision techniques implemented in Python. It is intended to serve as a guide for students and enthusiasts who are interested in learning and applying computer vision and image processing methods.
-Each notebook covers a specific topic in computer vision, providing code implementations, explanations, and visualizations to help you understand the concepts. Feel free to modify the code and experiment with different parameters to deepen your understanding.
+
+Each notebook covers a specific topic in computer vision, providing code implementations, explanations, and visualizations to help you understand the concepts. Feel free to modify the code and experiment with different inputs and parameters to deepen your understanding.
 
 ## Table of Contents
 
