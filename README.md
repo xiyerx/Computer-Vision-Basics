@@ -10,7 +10,7 @@ Each notebook covers a specific topic in computer vision, providing code impleme
 2. [Histogram Equalization](Histogram_Equalization.ipynb)
 3. [Smoothing and Sharpening](Smoothing_&_Sharpening.ipynb)
 4. [Thresholding](Thresholding.ipynb)
-5. [Morphological Operations](Morphological_Operations.ipynb)
+5. [Morphological Operations](Morphological_Operations.ipynb), [Dilation/Erosion](Erosion_&_Dilation_user-defined.ipynb)
 6. [Edge Detection and Hough Transform](Edge_Detection_&_Hough_Transform.ipynb)
 7. [GLCM and Statistical Properties](GLCM_&_Statistical_Properties.ipynb)
 8. [Chain Code and Shape Recognition](Chain_Code_&_Shape_Recognition.ipynb)
